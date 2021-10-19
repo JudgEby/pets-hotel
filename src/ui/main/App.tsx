@@ -1,11 +1,9 @@
 import React from 'react';
-import Button from '@mui/material/Button';
+import Header from '../../components/header';
 
 function App() {
 	return (
-		<Button variant="contained" color="primary">
-			Hello World
-		</Button>
+		<Header/>
 	);
 }
 
