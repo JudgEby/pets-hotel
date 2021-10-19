@@ -1,7 +1,12 @@
-import React from 'react'
+import React from 'react';
+import Button from '@mui/material/Button';
 
 function App() {
-	return <div>Hello World!</div>
+	return (
+		<Button variant="contained" color="primary">
+			Hello World
+		</Button>
+	);
 }
 
 export default App
