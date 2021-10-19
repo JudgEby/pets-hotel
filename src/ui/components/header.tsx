@@ -3,7 +3,7 @@ import { AppBar, Button, IconButton, Toolbar, Typography, Box } from "@mui/mater
 
 function Header () {
     return(
-        <AppBar>
+        <AppBar position='static'>
             <Toolbar>
                 <Typography
                     variant='h6'
