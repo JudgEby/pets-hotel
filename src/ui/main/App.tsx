@@ -19,7 +19,6 @@ function App() {
 				</Grid>
 			</Paper>
 		</ThemeProvider>
-		
 	);
 }
 
